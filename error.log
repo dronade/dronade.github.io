@@ -20,3 +20,17 @@ warning: LF will be replaced by CRLF in index.html.
 The file will have its original line endings in your working directory
 
 
+----------
+
+Wed Sep 30 2020 18:56:36 GMT+0100 (GMT Summer Time)
+
+Logon failed, use ctrl+c to cancel basic credential prompt.
+
+
+----------
+
+Wed Sep 30 2020 18:56:37 GMT+0100 (GMT Summer Time)
+
+bash: /dev/tty: No such device or address
+
+
